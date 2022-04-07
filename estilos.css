@@ -1,0 +1,146 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;0,600;0,800;1,100;1,600;1,800&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+}
+.fondo-cursos-home {
+  background-image: url(https://cdn.shopify.com/s/files/1/0599/6160/6305/files/FB_Avanzado_Estrellas_1.jpg?v=1646334055);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-attachment: fixed;
+}
+.peque {
+  width: 20%;
+}
+.cabecera {
+  font-size: 50px;
+  color: #fff;
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+.blanco {
+  color: #fff;
+  font-style: italic;
+  margin-top: 20px;
+}
+a.theBtn2 {
+  background-color: #ffff01;
+  color: #000;
+  padding: 10px 30px;
+  border-radius: 10px;
+  font-style: italic;
+  text-decoration: none;
+}
+.text-center {
+  text-align: center !important;
+}
+img.one1 {
+  -webkit-transition: all 0.3s ease-out;
+  -moz-transition: all 0.3s ease-out;
+  -o-transition: all 0.3s ease-out;
+  position: relative;
+  top: 0;
+  width: 90%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+img.one1:hover {
+  top: -5px;
+}
+.cuadro {
+  padding: 30px;
+  border: 3px solid #ffff01;
+  font-size: 30px;
+  line-height: initial;
+  margin-bottom: 30px;
+}
+.titulo-mega-pack {
+  font-size: 60px;
+}
+.texto_amarillo {
+  color: #ffff01;
+}
+.border-bottom-amarillo {
+  border-bottom: solid 3px #ffff01;
+}
+.linea {
+  background: #fff852;
+  height: 15px;
+}
+.triangle-down {
+  width: 0;
+  height: 0;
+  border-left: 60px solid transparent;
+  border-right: 60px solid transparent;
+  border-top: 30px solid #fff852;
+  margin: 0 auto;
+}
+.fondo-seccion3Home {
+  background: rgb(28, 19, 47);
+  background: linear-gradient(
+    180deg,
+    rgba(28, 19, 47, 1) 0%,
+    rgba(4, 6, 19, 1) 50%,
+    rgba(33, 26, 138, 1) 100%
+  );
+  padding-bottom: 35px;
+}
+.titulo1Home {
+  font-size: 4rem;
+  font-weight: 700;
+  color: #ffff01;
+  margin-left: 15px;
+}
+.subtitulo1 {
+  font-size: 25px;
+  margin-top: -15px;
+  margin-left: 20px;
+}
+.texto1 {
+  font-size: 15px;
+  text-align: justify;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.parrafo1 {
+  color: #fff;
+  border-left: 6px solid #ffff01;
+}
+.container.margenk {
+  margin-top: 40px;
+}
+.container.margen {
+  margin-top: 45px;
+}
+.titulo1 {
+  font-size: 4rem;
+  font-weight: 700;
+  color: #ffff01;
+}
+.texto-experiencia {
+  color: #fff;
+  text-align: center;
+}
+.parrafo11 {
+  border-left: 6px solid #5000d1;
+}
+.titulo11home {
+  font-size: 5rem;
+  font-weight: 700;
+  color: #5000d1;
+  margin-left: 20px;
+}
+.texto11 {
+  font-size: 16px;
+  text-align: justify;
+  margin-left: 20px;
+}
+a.theBtn22 {
+  background-color: #5000d1;
+  color: #fff;
+  padding: 15px 25px;
+  border-radius: 10px;
+  font-style: italic;
+  text-decoration: none;
+  margin-left: 25px;
+}

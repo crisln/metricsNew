@@ -1,0 +1,11 @@
+@media (max-width: 767px) {
+  .cabecera {
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: 15px;
+  }
+  .peque {
+    width: 35%;
+  }
+}
